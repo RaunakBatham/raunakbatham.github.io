@@ -1,0 +1,39 @@
+* {
+  /* border: 1px solid rebeccapurple; */
+  margin: 0;
+}
+
+header {
+  background-color: #4267b2;
+  padding: 5px;
+}
+
+header>h1 {
+  color: white;
+  font-weight: normal;
+  font-size: large;
+  text-align: center;
+}
+
+section#sidebar {
+  width: 15%;
+  float: left;
+}
+
+section#sidebar>img {
+  width: 100%;
+}
+
+section#sidebar {
+  text-align: center;
+}
+
+section#main {
+  width: 79%;
+  float: left;
+}
+
+section#main>h2 {
+  text-align: center;
+  margin-top: 100px;
+}
