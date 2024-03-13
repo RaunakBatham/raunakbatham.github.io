@@ -35,5 +35,14 @@ section#main {
 
 section#main>h2 {
   text-align: center;
-  margin-top: 100px;
+  margin-top: 50px;
+}
+
+article {
+  margin-top: 5cqb;
+  margin-left: 5%;
+}
+
+article>img {
+  max-width: 100%;
 }
